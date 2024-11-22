@@ -13,3 +13,7 @@
 * Exportación de datos: Generación de reportes en formato Excel (resumido o desglosado).
 * Gestión de errores: Ventanas emergentes para mostrar y gestionar errores en los datos procesados.
 * Descargas multihilo: Capacidad de descargar y procesar archivos en paralelo.
+
+## 📂 Repositorio
+
+[Descargar](https://mega.nz/folder/76ICAIBT#vHEpIoWe4oY78Kd_iGU8Bw)
