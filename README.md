@@ -29,11 +29,6 @@ Este proyecto permite analizar, filtrar y gestionar datos de facturación median
 3. Ubica la carpeta en la ubicación deseada en tu sistema.
 4. Crea un acceso directo del ejecutable o arrástralo hasta tu barra de tareas.
 
-### Ejecutar el programa
-
-1. Haz doble clic en el archivo `analyzer.exe`.
-2. Sigue las instrucciones en pantalla para cargar archivos, aplicar filtros y descargar resultados.
-
 ## 📂 Repositorio
 
 [Descargar](https://mega.nz/folder/76ICAIBT#vHEpIoWe4oY78Kd_iGU8Bw)
