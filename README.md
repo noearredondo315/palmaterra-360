@@ -22,7 +22,7 @@ Este proyecto permite analizar, filtrar y gestionar datos de facturación median
 
 ### Descargar y configurar
 
-1. Descarga los archivos desde la sección de [Repositorio](#📂-Repositorio).
+1. Descarga los archivos desde la sección de [Repositorio](#-repositorio).
 2. Descomprime el paquete descargado, que incluye:
    - `PALMA TERRA 360 - FACTURAS.exe`: Archivo ejecutable principal.
    - Carpeta `_internal`: Contiene las librerías necesarias para la ejecución del programa.
