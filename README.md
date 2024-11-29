@@ -31,4 +31,5 @@ Este proyecto permite analizar, filtrar y gestionar datos de facturación median
 
 ## 📂 Repositorio
 
-[Descargar](https://mega.nz/folder/76ICAIBT#vHEpIoWe4oY78Kd_iGU8Bw)
+- [Descargar](https://mega.nz/folder/76ICAIBT#vHEpIoWe4oY78Kd_iGU8Bw) Módulo Facturas
+- [Descargar](https://mega.nz/folder/TywQlSqI#LYJ8qzFlaYAJp_CoXvoD4w) Módulo Estimaciones KIOSKO
